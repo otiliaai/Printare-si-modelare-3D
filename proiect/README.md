@@ -20,17 +20,15 @@ Răsucind maneta continuu, puiul "iese" și "intră" ritmic în ou — creând o
 Mecanismul convertește **rotația continuă** a manetei în **mișcare verticală** (sus-jos) a oului:
 
 ```
-Utilizatorul rotește maneta albastră (crank)
+Utilizatorul rotește maneta albastră care descrie un cerc
         ↓
-Pin-ul excentric de pe maneță descrie un cerc
-        ↓
-Biela (connecting rod) transformă rotația în translație
+Rotația devine translație
         ↓
 Platforma superioară urcă și coboară ritmic
         ↓
 Jumătatea inferioară a oului urcă cu platforma
         ↓
-Jumătatea superioară (coaja spartă) rămâne fixă
+Coaja spartă  rămâne fixă
         ↓
 Puiul "iese" și "intră" în ou în mod repetat
 ```
