@@ -4,6 +4,8 @@
 
 ---
 
+<img src="pui.webp" width="400" alt="Cute Hatching Chick Automaton"/>
+
 ##  Ideea
 
 
