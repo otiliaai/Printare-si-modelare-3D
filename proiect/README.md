@@ -7,7 +7,7 @@
 ## 💡 Ideea
 
 
-Scopul este de a crea o **jucărie mecanică fără electronice**, unde mișcarea este produsă exclusiv prin rotirea unei manete și transmisă printr-un lanț cinematic. Obiectul funcționează ca un **automaton** în tradiția jucăriilor mecanice clasice, realizat complet prin **imprimare 3D**.
+Scopul este de a crea o **jucărie mecanică fără electronice**, unde mișcarea este produsă exclusiv prin rotirea unei manete și transmisă printr-un lanț cinematic.
 
 Răsucind maneta continuu, puiul "iese" și "intră" ritmic în ou — creând o animație mecanică infinită.
 
@@ -33,41 +33,16 @@ Jumătatea superioară (coaja spartă) rămâne fixă
 Puiul "iese" și "intră" în ou în mod repetat
 ```
 
-### Schema cinematică
-
-```
-ROTAȚIE (maneță) → TRANSLAȚIE (bielă) → MIȘCARE VERTICALĂ (ou)
-
-    [Maneță] ──pin excentric──> [Bielă] ──> [Platformă] ↕
-                                                  │
-                              [Brațe ghidaj verzi] │
-                                             (mențin verticalitatea)
-```
-
----
 
 ## 🧩 Componente
 
-### Mecanismul de acționare
-| Componentă | Rol | Joint în Fusion 360 |
-|---|---|---|
 | **Manetă (crank) albastră** | Input — rotație continuă 360° | Revolute |
 | **Pin excentric** | Translatează rotația în mișcare orbitală | Rigid pe maneță |
 | **Bielă (connecting rod)** | Leagă pin-ul de platformă | Cylindrical la ambele capete |
 | **Platformă superioară** | Susține oul, urcă/coboară | Slider vertical |
 
-### Structura de ghidaj (verde)
-| Componentă | Rol |
-|---|---|
-| **Cadru exterior** | Structura fixă de bază |
-| **Brațe ghidaj x4** | Mențin platforma stabilă pe verticală |
-| **Baza** | Fixată pe suprafață, conține mecanismul |
-
 ### Oul
-| Componentă | Rol |
-|---|---|
-| **Jumătatea inferioară** | Solidară cu platforma — se ridică și coboară |
-| **Jumătatea superioară (coajă spartă)** | Fixă pe cadru — creează iluzia deschiderii |
+
 
 ### Puiul
 | Componentă | Rol |
