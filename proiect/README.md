@@ -4,7 +4,7 @@
 
 ---
 
-## 💡 Ideea
+##  Ideea
 
 
 Scopul este de a crea o **jucărie mecanică fără electronice**, unde mișcarea este produsă exclusiv prin rotirea unei manete și transmisă printr-un lanț cinematic.
@@ -13,7 +13,7 @@ Răsucind maneta continuu, puiul "iese" și "intră" ritmic în ou — creând o
 
 ---
 
-## ⚙️ Funcționare
+## Funcționare
 
 Mecanismul convertește **rotația continuă** a manetei în **mișcare verticală** (sus-jos) a oului:
 
@@ -34,26 +34,21 @@ Puiul "iese" și "intră" în ou în mod repetat
 ```
 
 
-## 🧩 Componente
+## Componente
 
-| **Manetă (crank) albastră** | Input — rotație continuă 360° | Revolute |
-| **Pin excentric** | Translatează rotația în mișcare orbitală | Rigid pe maneță |
-| **Bielă (connecting rod)** | Leagă pin-ul de platformă | Cylindrical la ambele capete |
-| **Platformă superioară** | Susține oul, urcă/coboară | Slider vertical |
+### Manetă albastră
+
+### Platformă superioară
 
 ### Oul
 
 
 ### Puiul
-| Componentă | Rol |
-|---|---|
-| **Corp galben** | Fix în interiorul jumătății inferioare |
-| **Cioc portocaliu** | Detaliu decorativ, insert separat |
-| **Ochi negri** | Inserții presate sau lipite |
+
 
 ---
 
-## ✨ Inspirație
+## Inspirație
 
 https://www.printables.com/model/1253400-cute-hatching-chick-automaton-crank-operated-mecha
 
