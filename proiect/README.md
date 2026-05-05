@@ -36,12 +36,9 @@ Puiul "iese" și "intră" în ou în mod repetat
 
 ## Componente
 
-### Manetă albastră
-
 ### Platformă superioară
 
 ### Oul
-
 
 ### Puiul
 
