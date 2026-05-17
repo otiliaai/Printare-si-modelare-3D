@@ -102,5 +102,4 @@ proiect/
 ## 🔧 Software folosit
 
 - **Modelare 3D:** Autodesk Fusion 360
-- **Slicing:** Ultimaker Cura / PrusaSlicer
-- **Versionare:** Git + GitHub
+- **Slicing:**  PrusaSlicer
